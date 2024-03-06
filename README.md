@@ -10,7 +10,7 @@
 
 ### About the project
 
-You can view project here: https://users-list-react.vercel.app/
+You can view project here: https://users-list-react-js.vercel.app/
 
 1) Modular Application Architecture
 2) The modules are in src/modules
