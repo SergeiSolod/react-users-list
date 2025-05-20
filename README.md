@@ -12,7 +12,7 @@
 
 https://youtu.be/hr6IdpInrMc video demonstration of the project
 
-You can view project here: https://users-list-react-js.vercel.app/
+You can view project here: https://users.jsvar.com
 
 1) Modular Application Architecture
 2) The modules are in src/modules
